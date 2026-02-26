@@ -1,2 +1,3 @@
-# DecepBench
-Tackling the Legal System with AI
+# Template
+
+Template and style files for CoLM 2025
